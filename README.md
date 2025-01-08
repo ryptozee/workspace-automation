@@ -1,4 +1,4 @@
-# Google Workspace Users Creation Script
+# Google Workspace User Creation Automation
 
 This script creates new users in Google Workspace using the Admin SDK Directory API. Before using the script, make sure you have the necessary scopes enabled for your Google Cloud project and the Admin SDK Directory API and Google Drive API enabled. You also need to create a project in the Google Cloud Console and download the client secrets file.
 
